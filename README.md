@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Kubusiowy
-- 👀 I’m interested in Programming in HTML CSS javascript and PHP 
-- 🌱 I’m currently learning  C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me e-mail : firkowskikuba@gmail.com or discord : кυвυѕ#8958
-<!---
-Kubusiowy/Kubusiowy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! 👋
+I've been passionate about programming since 2021, diving into various languages and technologies. Currently, I'm focused on building my skills in:
+
+JavaScript 🌐
+C++ 💻
+HTML & CSS 🎨
+PHP 🛠️
+I love exploring both front-end and back-end development, constantly challenging myself with new projects and technologies. I'm always eager to learn more and improve my coding skills.
+
+Feel free to check out my repositories or get in touch for collaboration!
