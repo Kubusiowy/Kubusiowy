@@ -1,16 +1,26 @@
-## Hi there 👋
+readme_content_clean = """# 👋 Cześć, jestem Jakub Firkowski
 
-<!--
-**Kubusiowy/Kubusiowy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📱 Specjalizacje
 
-Here are some ideas to get you started:
+- Kotlin (Jetpack Compose, MVVM)
+- Android App Development
+- PHP (API, cookies, sesje)
+- Bazy danych: MySQL
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Kontakt
+
+- 📧 Email: [jakubfirko@gmail.com](mailto:jakubfirko@gmail.com)
+- 💬 Discord: `Kubusiowy#1234`
+
+---
+
+
+
+# Zapisujemy plik
+readme_path_clean = Path("/mnt/data/README_profesjonalny.md")
+readme_path_clean.write_text(readme_content_clean, encoding='utf-8')
+
+readme_path_clean.name
