@@ -19,8 +19,3 @@ readme_content_clean = """# 👋 Cześć, jestem Jakub Firkowski
 
 
 
-# Zapisujemy plik
-readme_path_clean = Path("/mnt/data/README_profesjonalny.md")
-readme_path_clean.write_text(readme_content_clean, encoding='utf-8')
-
-readme_path_clean.name
