@@ -16,7 +16,6 @@
 - 💬 Discord: `kubus8917`
 - 📷 Instagram: [@kubus.dev](https://www.instagram.com/wacpan_jakub/#)
 - 📘 Facebook: [Jakub Firkowski](https://facebook.com)
-- 💎 ecstacy cs2: [FirekKefirek](https://ecstacy.dev/id/491)
 
 ---
 
