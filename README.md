@@ -1,21 +1,19 @@
-readme_content_clean = """# 👋 Cześć, jestem Jakub Firkowski
+# 👋 Hi, I'm Jakub Firkowski
 
-## 📱 Specjalizacje
+## 📱 Specializations
 
 - Kotlin (Jetpack Compose, MVVM)
 - Android App Development
-- PHP (API, cookies, sesje)
-- Bazy danych: MySQL
+- PHP (API, cookies, sessions)
+- Databases: MySQL
 - Git / GitHub
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
-- 📧 Email: [jakubfirko@gmail.com](mailto:jakubfirko@gmail.com)
-- 💬 Discord: `Kubusiowy#1234`
+- 📧 Email: [firkowskikuba@gmail.com](mailto:firkowskikuba@gmail.com)
+- 💬 Discord: `kubus8917`
 
 ---
-
-
 
