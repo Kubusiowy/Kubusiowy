@@ -4,7 +4,7 @@
 
 - Kotlin (Jetpack Compose, MVVM)
 - Android App Development
-- PHP (API, cookies, sessions)
+- PHP (API)
 - Databases: MySQL
 - Git / GitHub
 
