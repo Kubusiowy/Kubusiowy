@@ -5,15 +5,9 @@
 - Android App Development
 - PHP (API)
 - Databases: MySQL
+- HTML / CSS / JavaScript
 - Git / GitHub
 
-
-
-## 📫 Contact
-
-- 📧 Email: [firkowskikuba@gmail.com](mailto:firkowskikuba@gmail.com)
-- 📷 Instagram: [@wacpan_jakub](https://www.instagram.com/wacpan_jakub/#)
-- 📘 Facebook: [Jakub Firkowski](https://facebook.com)
 
 
 
