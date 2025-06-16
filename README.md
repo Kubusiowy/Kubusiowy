@@ -10,7 +10,8 @@
 - Databases: MySQL
 - Git / GitHub
 
----
+
+![linia](https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0184.gif)
 
 ## 📫 Contact
 
@@ -18,5 +19,6 @@
 - 📷 Instagram: [@wacpan_jakub](https://www.instagram.com/wacpan_jakub/#)
 - 📘 Facebook: [Jakub Firkowski](https://facebook.com)
 
----
+
+![linia](https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0184.gif)
 
