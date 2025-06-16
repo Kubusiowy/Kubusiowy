@@ -8,7 +8,6 @@
 - Git / GitHub
 
 
-![linia](https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0184.gif)
 
 ## 📫 Contact
 
@@ -17,5 +16,4 @@
 - 📘 Facebook: [Jakub Firkowski](https://facebook.com)
 
 
-![linia](https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0184.gif)
 
