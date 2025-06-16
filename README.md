@@ -1,3 +1,5 @@
+[Opis alternatywny]((https://github.com/user-attachments/assets/f1789f56-02ce-47c0-b0b9-bcc2d9b1ac69)
+)
 # 👋 Hi, I'm Jakub Firkowski
 
 ## 📱 Specializations
