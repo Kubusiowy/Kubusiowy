@@ -8,9 +8,9 @@
 ## 📱 Specializations
 - Kotlin (Jetpack Compose, MVVM)
 - Android App Development
-- PHP (API)
+- Ktor
 - Databases: MySQL
-- HTML / CSS / JavaScript
+- react (TSX)
 - Git / GitHub
 
 ![linia](https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0184.gif)
